@@ -40,6 +40,8 @@ For demonstration, with a sample dataset, I used the Microsoft stock dataset fro
 
 The model was able to predict stock prices with reasonable accuracy. Below is the plot showing the comparison between the actual closing prices and the predicted closing prices over time.
 
+![stock-forecasting-result](https://github.com/AmanVattoli/stock-forecasting-lstm/assets/119834364/501b00ee-c925-4a3f-a854-44125d8dd60c)
+
 ### Analysis
 
 - **Trend Capture**: The LSTM model successfully captured the overall upward trend of the stock prices. This indicates that the model can effectively learn and predict long-term trends in the stock market data.
